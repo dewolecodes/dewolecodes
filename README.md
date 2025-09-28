@@ -7,7 +7,7 @@
 # 👋 AKINBOLA ABDULRAHMON ADEWOLE (Dewole Codes)
 
 **Frontend Developer** • Lagos, Nigeria  
-📞 +2349010475575 • ✉️ abdulrahmonakinbola@gmail.com
+📞 +2347049839366 • ✉️ abdulrahmonakinbola@gmail.com
 
 [🌍 Portfolio](https://dewolecodes-portfolio.vercel.app/) •
 [📄 Resume](https://dewolecodes-portfolio.vercel.app/AKINBOLA_ABDULRAHMON_Resume.pdf) •
@@ -39,19 +39,21 @@ I build modern, responsive, and user-focused frontends. I enjoy crafting clean U
 - Tech: React, JavaScript, React Router, Axios, Sass, React Icons.  
 - Features: reusable UI components, multi-page navigation, performance optimizations.
 
+- **Talent Record Label — Music & E-Commerce Platform**  
+- Platform showcasing artists, releases and storefront for tickets and merch.  
+- Tech: React, Next.js, TypeScript, Tailwind CSS, Framer Motion.  
+- Focus: polished UX, responsive design, clear artist/product presentation.
+
 **Spendex — AI-powered Finance App**  
 - AI-driven finance tool that helps users track spending and gain financial insights.  
 - Tech: Next.js, React, JavaScript, Tailwind CSS, Framer Motion, OpenAI, Heroicons.  
 - Focus: interactive UI/UX, smooth animations, seamless AI integrations.
 
-**Talent Record Label — Music & E-Commerce Platform**  
-- Platform showcasing artists, releases and storefront for tickets and merch.  
-- Tech: React, Next.js, TypeScript, Tailwind CSS, Framer Motion.  
-- Focus: polished UX, responsive design, clear artist/product presentation.
-
 **Additional Projects**  
 - Many personal and practice projects using React, Next.js, and Node.js.  
 - Full list, repo links and live demos available on my Portfolio & GitHub.
+
+**More projects coming soon — stay tuned!** 🚧✨
 
 ---
 
@@ -109,4 +111,3 @@ I build modern, responsive, and user-focused frontends. I enjoy crafting clean U
 ---
 
 > ⭐ Tip: this `README.md` expects `banner.png` to live in the **root** of this repo (next to `README.md`). If you named the banner file differently, update the `<img src="./banner.png">` path above to match your file name.
-
