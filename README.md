@@ -34,20 +34,31 @@ I build modern, responsive, and user-focused frontends. I enjoy crafting clean U
 
 ## 🚀 Selected Projects
 
-**MadeIn9ja — News Platform**  
-- Responsive news website optimized for mobile and desktop.  
-- Tech: React, JavaScript, React Router, Axios, Sass, React Icons.  
-- Features: reusable UI components, multi-page navigation, performance optimizations.
+### MadeIn9ja — News Platform (Developer)
+A responsive news and blog platform that highlights local stories and features.
+- Built reusable UI components and a single article template with dynamic routing so every story loads from one page template.
+- Implemented fast client-side loading, consistent image aspect ratios, and a clean article layout with ad placements.
+- Focused on a mobile-first experience and performance for quick reading on phones.
+- **Tech:** React (v19), React Router, Axios, Sass, React Icons.
 
-- **Talent Record Label — Music & E-Commerce Platform**  
-- Platform showcasing artists, releases and storefront for tickets and merch.  
-- Tech: React, Next.js, TypeScript, Tailwind CSS, Framer Motion.  
-- Focus: polished UX, responsive design, clear artist/product presentation.
+---
 
-**Spendex — AI-powered Finance App**  
-- AI-driven finance tool that helps users track spending and gain financial insights.  
-- Tech: Next.js, React, JavaScript, Tailwind CSS, Framer Motion, OpenAI, Heroicons.  
-- Focus: interactive UI/UX, smooth animations, seamless AI integrations.
+### Talents — Music & Label Platform (Developer)
+A modern music label platform that showcases artists, new releases, blogs, and an e-commerce area for tickets and tracks.
+- Built artist showcase pages with photos, bios, and social links, plus a New Releases page with audio/video previews.
+- Created record label pages to present the team and roster, and a blog area for news and stories.
+- Added e-commerce-ready areas for selling tracks, tickets, and merch.
+- **Tech:** Next.js, TailwindCSS, Framer Motion, React Player, Next SEO.
+
+---
+
+### Spendex — AI-powered Finance App (Developer)
+A finance tool that helps users track spending and get fast, useful money insights using AI.
+- Built dashboards and interactive visualizations for spending and savings.
+- Integrated AI features to summarize transactions and suggest actions to users.
+- Focused on clear UX so users get useful info fast.
+- **Tech:** Next.js / React, Tailwind, Framer Motion, OpenAI, PostgreSQL / MongoDB.
+
 
 **Additional Projects**  
 - Many personal and practice projects using React, Next.js, and Node.js.  
@@ -107,7 +118,3 @@ I build modern, responsive, and user-focused frontends. I enjoy crafting clean U
 - LinkedIn: https://www.linkedin.com/in/dewolecodes/  
 - GitHub: https://github.com/dewolecodes  
 - X: https://x.com/dewolecodes
-
----
-
-> ⭐ Tip: this `README.md` expects `banner.png` to live in the **root** of this repo (next to `README.md`). If you named the banner file differently, update the `<img src="./banner.png">` path above to match your file name.
